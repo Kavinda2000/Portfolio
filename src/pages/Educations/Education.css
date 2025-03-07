@@ -1,0 +1,33 @@
+.education {
+    background-color: #1e1e2c;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 50px;
+    margin-left: 130px;
+    width: 1257px;
+}
+
+.education-heading {
+    text-align: center;
+    margin-top: 3px;
+    margin-bottom: 1px;
+    color: #22a45a;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.education hr{
+    color: white;
+    width: 900px;
+    margin: 10px auto;
+}
+
+.education .vertical-timeline-element-title{
+    color: #223ca4;
+    font-weight: bold;
+}
+
+.education .vertical-timeline-element-subtitle{
+    color: #1e1e2c;
+}
